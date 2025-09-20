@@ -25,7 +25,7 @@ This is based on a final-year Electronics & Communication Engineering project, i
 For full details, refer to the PDF report.
 
 ## How to Use This Repository
-1. **View the PDF**: Download or view directly via the raw link (e.g., https://raw.githubusercontent.com/yourusername/repo-name/main/Brain-Computer-Interface-for-Thought-to-Communication-using-EEG-Deep-Learning-and-Generative-AI.pdf). Enable GitHub Pages for browser-friendly viewing.
+1. **View the PDF**: Download or view directly via the raw link Brain–Computer Interface for Thought-to-Communication using EEG, Deep Learning, and Generative AI.pdf. Enable GitHub Pages for browser-friendly viewing.
 2. **Reproduce the Work**: 
    - Install dependencies: Python 3.x, MATLAB, libraries like NumPy, SciPy, Scikit-learn, and MNE-Python.
    - If adding code: Clone the repo with `git clone https://github.com/yourusername/repo-name.git`, then run scripts (e.g., `python eeg_preprocess.py`).
