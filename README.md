@@ -34,13 +34,8 @@ For full details, refer to the PDF report.
 If recreating visualizations or models, ensure you have access to similar EEG datasets (e.g., from public sources like PhysioNet).
 
 ## Credits
-- **Author**: [Your Name] – Final-year B.E. Electronics & Communication Engineering student, with internship experience at an MNC.
-- **Inspirations**: Built on open EEG datasets and tutorials from NPTEL, Coursera, and research papers on BCI.
-- **Contact**: Reach out via GitHub issues or [your email] for questions or collaborations.
+- **Author**: [ABDULLAH M] – Final-year B.E. Electronics & Communication Engineering student, with felloship at anna university.
+- **Contact**: Reach out via GitHub issues or [moosaabdullah.work@gmail.com] for questions or collaborations.
 
-This project aligns with interests in machine learning, cybersecurity, and career development in tech.
 
-## License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details. (Add a LICENSE file to your repo via GitHub's templates if needed.)
 
-For more on BCI trends, check related resources or my other projects in stock analysis and computer vision.
